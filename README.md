@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ariyan029
+- 👋 Hi, I’m SK ARIYAN ALI 
 - 👀 I’m interested in web development and cloud 
-- 🌱 I’m currently learning dsa using java
+- 🌱 I’m currently learning dsa using java & Web Development (Full Stack )
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email to contact me
-- ;-murselim49@gmail.com
+- ;-murselim49@gmail.com / 8967288084
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
