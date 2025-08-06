@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m SK ARIYAN ALI<br>👀 I’m interested in web development and cloud<br>🌱 I’m currently learning dsa using java & Web Development (Full Stack )<br>💞️ I’m looking to collaborate on ...<br>📫 my email to contact me<br>;-murselim49@gmail.com / 8967288084<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
+👋 Hi, I’m SK ARIYAN ALI<br>👀 I’m interested in web development and devOps<br>🌱 I’m currently learning dsa using java & Web Development (Full Stack )<br>💞️ I’m looking to collaborate on ...<br>📫 my email to contact me<br>;-murselim49@gmail.com / 8967288084<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
